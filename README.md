@@ -1,6 +1,6 @@
 # Projeto BI
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# LOGICA FUZZI APLICADA PARA QUALIFICAÇÃO DE RESERVATÓRIOS DO PRÉ-SAL
+# LOGICA FUZZI E ALGORITMO GENÉTICO APLICADO APLICADOS PARA QUALIFICAÇÃO DE RESERVATÓRIOS DO PRÉ-SAL
 
 #### Aluno: [Mauro Becker](https://github.com/link_do_github)
 #### Orientadora: [Nome Sobrenome](https://github.com/link_do_github).
